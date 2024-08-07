@@ -1,0 +1,33 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #1b2735, #090a0f);
+    color: aliceblue;
+    box-sizing: border-box;
+
+}
+
+.box {
+    width: 500px;
+    height: 600px;
+    box-shadow: 16px 14px 20px #0000008c;
+    border-radius: 5px;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+
+}
+
+h2 {
+    font-size: xx-large;
+    padding: 30px;
+    text-align: center;
+    color: lightgrey;
+}
+
+p {
+    font-size: x-large;
+    padding: 30px;
+    text-align: center;
+    color: #afeeee;
+}
